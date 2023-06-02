@@ -1,1 +1,1 @@
-# odin-recipes
+So with everything that i've learned, ill be able to make a basic recipe website. Using things like <p> to seperate paragraphs, using <img> to display a picture and many more things such as that. I'll try my best.
